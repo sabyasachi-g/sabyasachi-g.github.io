@@ -417,7 +417,7 @@ window.onload = function() {
 
             context.fillStyle = "#ffffff";
             context.font = "24px Verdana";
-            drawCenterText("Press any key to start!", 0, canvas.height/2, canvas.width);
+            drawCenterText("Press any key to roll!", 0, canvas.height/2, canvas.width);
         }
     }
 
